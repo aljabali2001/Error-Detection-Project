@@ -19,9 +19,10 @@ Client1 → Server (error injection) → Client2
 2. Run Client2
 3. Run Client1
 
-## Group Students                      ## Student Number
-- AHMAD ELJOUMAA ALHASAN                2110206572
-- HASSAN EBRAHIM ALJABALI               2010205632
-- JUWAYLI ABDULLAH                      2110205537
+## Group Students                        
+- AHMAD ELJOUMAA ALHASAN                
+- HASSAN EBRAHIM ALJABALI               
+- JUWAYLI ABDULLAH                      
+
 
 
