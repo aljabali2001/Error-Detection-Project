@@ -57,7 +57,7 @@ import java.util.Random;
 
             if (data.isEmpty()) return packet;
 
-            int type = R.nextInt(2); // ONLY bit flip or substitute
+            int type = R.nextInt(2); 
 
             switch (type) {
                 case 0: {
@@ -81,4 +81,5 @@ import java.util.Random;
         }
 
     }
+
 
