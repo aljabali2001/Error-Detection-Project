@@ -32,7 +32,7 @@ public class Client1 {
             switch (choice) {
                 case 1:
                     method = "PARITY";
-                    controlInfo = ParityCalculator.calculateEvenParity(data);
+                    controlInfo = ParityCalculator.calculateEvenParityAuto(data);
                     break;
                 case 2:
                     method = "2D_PARITY";
@@ -73,6 +73,7 @@ public class Client1 {
         scanner.close();
     }
 }
+
 
 
 
