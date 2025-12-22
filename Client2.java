@@ -33,7 +33,7 @@ public class Client2 {
 
             switch (method) {
                 case "PARITY":
-                    computedControl = ParityCalculator.calculateEvenParity(data);
+                    computedControl = ParityCalculator.calculateEvenParityAuto(data);
                     status = incomingControl.equals(computedControl);
                     break;
 
@@ -74,4 +74,5 @@ public class Client2 {
         }
     }
 }
+
 
